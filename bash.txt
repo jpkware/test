@@ -3,3 +3,4 @@ edit from eclipse, committed locally
 another eclipse edit, no commit but saved
 last eclipse edit, not saved
 bash edit 2
+bash edit 3
