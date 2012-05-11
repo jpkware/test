@@ -2,3 +2,6 @@ this is test.txt
 
 This is a hotfix
 This is a hotfix 2
+From another-branch
+xxx from another-branch
+yyy from another-branch
