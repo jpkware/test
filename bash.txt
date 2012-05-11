@@ -5,3 +5,4 @@ last eclipse edit, not saved
 bash edit 2
 bash edit 3
 eclipse edit 4
+bash edit 5
