@@ -1,3 +1,4 @@
 this is test.txt
 
 This is a hotfix
+This is a hotfix 2
