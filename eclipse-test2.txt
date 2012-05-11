@@ -1,1 +1,2 @@
 edit from bash
+test from bash
